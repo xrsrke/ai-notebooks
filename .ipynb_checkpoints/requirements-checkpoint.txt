@@ -1,0 +1,8 @@
+torch
+fastai
+pytorch-lightning
+torchsummary
+fastprogress
+ipdb
+timm
+einops
